@@ -1,4 +1,4 @@
-package com.tomkasp.banking;
+package com.tomkasp.banking.account;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
